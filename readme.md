@@ -17,7 +17,7 @@ This project implements a machine learning model to predict fraudulent transacti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yann-fk-21/fraud-prediction-model.git
+   git clone https://github.com/yann-fk-21/fraud_prediction_model.git
    cd fraud-prediction
    ```
 
