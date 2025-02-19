@@ -7,6 +7,19 @@ This project implements a machine learning model to predict fraudulent transacti
 - Data preprocessing and feature engineering
 - Model persistence using `joblib`
 
+Sure, here is the translated version of the added content:
+
+## Project Structure
+
+The project consists of the following directories and files:
+- `data/`: Contains the datasets used for training the model.
+- `notebooks/`: Contains the Jupyter notebooks used for exploration and model development.
+- `scr/`: Contains the Python scripts for data preprocessing and model training.
+- `models/`: Contains the trained models and persistence artifacts.
+- `reports/`: Contains EDA artifacts
+- `requirements.txt`: List of project dependencies.
+- `readme.md`: Project documentation.
+
 ## Technologies Used
 - Python
 - Scikit-Learn
